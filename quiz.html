@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Suckless Quiz Element</title>
+
+    <!-- Include the script -->
+    <script src="quiz.js" async></script>
+    <script src="sjcl.js"></script>
+
+    <!-- TODO: have a function that can be ran from console that initiates a teaching sequence. Once taught (e.g. given the password), it will give a popup and console printout of the encoded data. -->
+  </head>
+  <body>
+    <main style="padding: 15px; max-width: 600px; margin:auto; text-align: center;">
+    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/xsCFyBzOBTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    
+    <!-- add the tag with all attributes -->
+    <sl-quiz-element
+      json-file="ques.json" 
+      name="Paintbooth Competency Quiz"
+    />
+    
+    
+    
+    </main>
+  </body>
+</html>
+
+<!-- ["2","2","3","2","2","2","2","3","2"]-->

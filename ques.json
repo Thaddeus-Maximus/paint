@@ -1,0 +1,73 @@
+{
+    "questions": [
+        {
+            "question": "Masking overspray is optional in the paint booth.",
+            "options": [
+                "True",
+                "False"
+            ]
+        },
+        {
+            "question": "Empty paint cans should be stored on the shelves.",
+            "options": [
+                "True",
+                "False"
+            ]
+        },
+        {
+            "question": "The paint booth should be like what when you leave it?",
+            "options": [
+                "As good as I found it",
+                "Better than I found it",
+                "Completely correct, including the mistakes I didn't make"
+            ]
+        },
+        {
+            "question": "Masking overspray is optional in the paint booth.",
+            "options": [
+                "True",
+                "False"
+            ]
+        },
+        {
+            "question": "The paint booth is an inherently dirty place so cleaning up is fruitless.",
+            "options": [
+                "True",
+                "False"
+            ]
+        },
+        {
+            "question": "Spraypaint goes on the Liquid Paint shelf.",
+            "options": [
+                "True",
+                "False"
+            ]
+        },
+        {
+            "question": "The paint booth curtain should be ____ when leaving.",
+            "options": [
+                "Open",
+                "Closed"
+            ]
+        },
+        {
+            "question": "If you don't know where something goes, where do you put it?",
+            "options": [
+                "The trash",
+                "On a random shelf",
+                "The 'junk' shelf",
+                "On the table"
+            ]
+        },
+        {
+            "question": "Which of these makes a cameo in the training video?",
+            "options": [
+                "A red x",
+                "A paint sock",
+                "A matchbox car",
+                "The makerspace logo"
+            ]
+        }
+    ],
+    "secret": {"iv":"8H5MrP5PmYZVBDYSgid59g==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"Kia7lDILr58=","ct":"wFQea+ilE7fz/fyM4uk6imqaUistnCMg6qp2FZs="}
+}
