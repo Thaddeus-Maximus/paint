@@ -23,17 +23,18 @@
             ]
         },
         {
-            "question": "Masking overspray is optional in the paint booth.",
+            "question": "Boards, cribbing, and hooks should be left out for other members to use.",
             "options": [
                 "True",
                 "False"
             ]
         },
         {
-            "question": "The paint booth is an inherently dirty place so cleaning up is fruitless.",
+            "question": "In the paint booth, cleaning up is:",
             "options": [
-                "True",
-                "False"
+                "Pointless",
+                "Critical to good work and respecting the community",
+                "Just something the RMs want you to do"
             ]
         },
         {
@@ -47,7 +48,8 @@
             "question": "The paint booth curtain should be ____ when leaving.",
             "options": [
                 "Open",
-                "Closed"
+                "Closed",
+                "Doesn't matter"
             ]
         },
         {
@@ -62,7 +64,7 @@
         {
             "question": "Which of these makes a cameo in the training video?",
             "options": [
-                "A red x",
+                "A Bruins hat",
                 "A paint sock",
                 "A matchbox car",
                 "The makerspace logo"
